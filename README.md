@@ -1,0 +1,2 @@
+# Towards_Developing_a_Machine_Learning_Model_For_Suicidal_Attempt_Prediction
+ In this study [N=469], we have classiﬁed the samples whohaveattemptedforsuicideandwhodidnot.Forclassiﬁcation purpose, we have used random forest classiﬁer and we got 83.7% accuracyregardingclassiﬁcationofthesetwogroupsofpeople.In addition to our classiﬁcation analysis, we have also shown which factors can be important for suicidal attempt
